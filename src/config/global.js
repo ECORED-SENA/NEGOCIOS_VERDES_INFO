@@ -14,6 +14,21 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
+      {
+        nombre: 'Kateryn Dallan Valderrama',
+        cargo: 'Experta temática',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima ',
+      },
+      {
+        nombre: 'Vilma Lucía Perilla Méndez',
+        cargo: 'Diseñadora instruccional',
+        centro: 'Centro de Gestión Industrial – Regional Distrito Capital',
+      },
+      {
+        nombre: 'Alix Cecilia Chinchilla Rueda',
+        cargo: 'Evaluadora instruccional',
+        centro: 'Centro de Gestión Industrial – Regional Distrito Capital',
+      },
     ],
     desarrolloProducto: [
       {
@@ -28,25 +43,25 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'María Natalia Maldonado Delgado',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Sergio Omar Camacho Orduz',
         cargo: 'Desarrollo Front-End',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Producción audiovisual',
+        nombre: 'Andrés Mauricio Santaella Ochoa',
+        cargo: 'Soporte Front-End',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Emilsen Alfonso Bautista',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

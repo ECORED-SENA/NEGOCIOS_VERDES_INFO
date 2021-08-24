@@ -22,7 +22,7 @@ section
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Total Horas: 
                 p.banner-principal__datos__item__texto 3984 Horas
               li.mb-3.banner-principal__datos__item
-                p.h6.mb-0.me-3.banner-principal__datos__item__titulo Duración en meses: 
+                p.h6.mb-0.me-3.banner-principal__datos__item__titulo Duración: 
                 p.banner-principal__datos__item__texto 27 meses
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Modalidad: 
@@ -47,7 +47,7 @@ section
         .d-none.d-lg-block.col-lg-5
           //- img(src="@/assets/curso/banner-princiapal.svg")
           .video
-            | <iframe data-v-1f9e4816="" width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
+            | <iframe data-v-1f9e4816="" width="560" height="315" src="https://www.youtube.com/embed/vQevR3qzy14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
@@ -161,7 +161,7 @@ section
             | Título de bachiller o su equivalente validación aprobada por la entidad competente.
       li 
         i.lista-ul__vineta
-        | El aspirante debe tener interés relacionado con el emprendimiento; Preferencia por el trabajo en equipo, liderazgo y comunicación asertiva, vocación de servicio; Preferencia por trabajos que exigen el cumplimiento de normas, procedimientos, estándares, protocolos; Interés en la formación técnica aplicada a la industria; Gusto por actividades laborales de incentivar el desarrollo sostenible, disposición para comercializar productos con enfoque ambiental; Disposición para respetar jerarquías y acatar órdenes; Preferencia por el trabajo operativo, interés por la investigación de productos y servicios verdes, motivación para la organización de actividades ambientales.
+        | El aspirante debe tener interés relacionado con el emprendimiento; preferencia por el trabajo en equipo, liderazgo y comunicación asertiva, vocación de servicio; preferencia por trabajos que exigen el cumplimiento de normas, procedimientos, estándares, protocolos; interés en la formación técnica aplicada a la industria; gusto por actividades laborales de incentivar el desarrollo sostenible, disposición para comercializar productos con enfoque ambiental; disposición para respetar jerarquías y acatar órdenes; preferencia por el trabajo operativo, interés por la investigación de productos y servicios verdes, motivación para la organización de actividades ambientales.
   
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
@@ -190,7 +190,7 @@ section
     .titulo__template--a.mb-4
       span.h4 6. Estrategia<br>metodologíca
 
-    p.mb-5 Centrada en la construcción de autonomía para garantizar la calidad de la formación en el marco de la formación por competencias, el aprendizaje por proyectos y el uso de técnicas didácticas activas que estimulan el pensamiento para la resolución de problemas simulados y reales; soportadas en el utilización de las tecnologías de la información y la comunicación, integradas, en ambientes virtuales de aprendizaje, que en todo caso recrean el contexto productivo y vinculan al aprendiz con la realidad cotidiana y el desarrollo de las competencias. 
+    p.mb-5 Centrada en la construcción de autonomía para garantizar la calidad de la formación en el marco de la formación por competencias, el aprendizaje por proyectos y el uso de técnicas didácticas activas que estimulan el pensamiento para la resolución de problemas simulados y reales; soportadas en la utilización de las tecnologías de la información y la comunicación, integradas, en ambientes virtuales de aprendizaje, que en todo caso recrean el contexto productivo y vinculan al aprendiz con la realidad cotidiana y el desarrollo de las competencias. 
       br
       br
       | Igualmente, debe estimular de manera permanente la autocrítica y la reflexión del aprendiz sobre el que hacer y los resultados de aprendizaje que logra a través de la vinculación activa de las cuatro fuentes de información para la construcción de conocimiento:
