@@ -20,7 +20,7 @@ section
                 p.banner-principal__datos__item__texto 621102
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Total Horas: 
-                p.banner-principal__datos__item__texto 3984 Horas
+                p.banner-principal__datos__item__texto 3984
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Duración: 
                 p.banner-principal__datos__item__texto 27 meses
